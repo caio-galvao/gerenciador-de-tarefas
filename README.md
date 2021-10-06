@@ -8,5 +8,5 @@ Este projeto é um **gerenciador de tarefas** simples para a linha de comando, e
 - Listagem das tarefas cadastradas
 
 ## Coisas para fazer
-[ ] Permitir armazenamento em arquivos
-[ ] Criar sistema com usuários diferentes
+- [ ] Permitir armazenamento em arquivos
+- [ ] Criar sistema com usuários diferentes
